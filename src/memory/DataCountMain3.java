@@ -13,6 +13,6 @@ public class DataCountMain3 {
         System.out.println("C count=" + Data3.count);
 
         Data3 data4 = new Data3("D");
-        System.out.println("D count=" + data4.count); //이렇게 인스턴스에서 static 영역에 접근도 가능. but 권장하지 않음
+        System.out.println("D count=" + data4.count); //이렇게 인스턴스에서 static 영역에 접근도 가능. but 권장하지 않음.
     }
 }
